@@ -17,7 +17,7 @@ Its very simple to run this application. Thanks to docker containers that takes 
 * [config](https://github.com/xidddekate/Crud-with-mongo-and-Go/tree/main/config) : Has all necessary configurations for environments and Mongo database
 * [init-mongo.js](https://github.com/xidddekate/Crud-with-mongo-and-Go/blob/main/init-mongo.js) : To initialize the Mongo Collections
 * [models](https://github.com/xidddekate/Crud-with-mongo-and-Go/tree/main/models) : Has all the required Schema that is being followed for this project
-* [handlers](https://github.com/xidddekate/Crud-with-mongo-and-Go/tree/main/handlers) : Has all the the functions to handle API calls and their corresponding test files for unit testing purpose
+* [handlers](https://github.com/xidddekate/Crud-with-mongo-and-Go/tree/main/handlers) : Has all the the functions to handle API calls and their corresponding test files for unit testing
 * [database](https://github.com/xidddekate/Crud-with-mongo-and-Go/tree/main/database) : Has files to to interact with database 
   * [database.go](https://github.com/xidddekate/Crud-with-mongo-and-Go/blob/main/database/database.go) : To establish a connection with MongoDB
   * [users.go](https://github.com/xidddekate/Crud-with-mongo-and-Go/blob/main/database/users.go) : for performing CRUD operations on database

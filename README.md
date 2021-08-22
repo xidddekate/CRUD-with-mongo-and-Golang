@@ -23,5 +23,6 @@ Its very simple to run this application. Thanks to docker containers that takes 
   * [users.go](https://github.com/xidddekate/Crud-with-mongo-and-Go/blob/main/database/users.go) : for performing CRUD operations on database
   * [users_mock.go](https://github.com/xidddekate/Crud-with-mongo-and-Go/blob/main/database/users_mock.go) : for Mocking database interaction functions written in [users.go](https://github.com/xidddekate/Crud-with-mongo-and-Go/blob/main/database/users.go) inorder to enable unit testing.
 
-
+# API reference
+ Import the [Postman Collection](https://github.com/xidddekate/CRUD-with-mongo-and-Golang/blob/main/go-users.postman_collection.json) to view all APIs and their respective response
 
